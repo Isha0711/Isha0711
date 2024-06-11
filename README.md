@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Isha Pant!</h1>
+<h1 align="center">Hi, I'm Isha Pant!👋🏼</h1>
 <h3 align="center">I'd like to call myself a curious individual for new things!</h3>
 
 - 👩🏻‍💻I’m currently working on **different AI related projects!**
